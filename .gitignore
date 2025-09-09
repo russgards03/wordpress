@@ -1,0 +1,9 @@
+# Ignore uploads (media files can be huge)
+wp-content/uploads/
+
+# Ignore cache
+wp-content/cache/
+
+# Ignore node_modules or vendor if used
+node_modules/
+vendor/
